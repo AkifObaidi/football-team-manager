@@ -68,4 +68,3 @@ You can find the instructions for **frontend** and **backend** in their respecti
 **Total Time Spent:** ≈ **5 hours**
 
 ![Demo Image](./demo-image.png)
-# football-team-manager
