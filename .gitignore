@@ -21,7 +21,6 @@ Thumbs.db
 
 # Build and output
 football-team-manager-frontend/.next/
-football-team-manager-frontend/out/
 football-team-manager-frontend/dist/
 football-team-manager-backend/dist/
 
