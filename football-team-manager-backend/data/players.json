@@ -1,0 +1,51 @@
+{
+  "GK": [
+    { "name": "Manuel Neuer", "team": "Bayern Munich" },
+    { "name": "Alisson Becker", "team": "Liverpool" },
+    { "name": "Jan Oblak", "team": "Atletico Madrid" },
+    { "name": "Marc-André ter Stegen", "team": "Barcelona" },
+    { "name": "Gianluigi Donnarumma", "team": "Paris Saint-Germain" },
+    { "name": "Ederson Moraes", "team": "Manchester City" },
+    { "name": "Thibaut Courtois", "team": "Real Madrid" },
+    { "name": "Keylor Navas", "team": "Paris Saint-Germain" },
+    { "name": "Mike Maignan", "team": "AC Milan" },
+    { "name": "David de Gea", "team": "Manchester United" }
+  ],
+  "DEF": [
+    { "name": "Virgil van Dijk", "team": "Liverpool" },
+    { "name": "Trent Alexander-Arnold", "team": "Liverpool" },
+    { "name": "Andrew Robertson", "team": "Liverpool" },
+    { "name": "Joshua Kimmich", "team": "Bayern Munich" },
+    { "name": "João Cancelo", "team": "Manchester City" },
+    { "name": "Raphaël Varane", "team": "Manchester United" },
+    { "name": "Ruben Dias", "team": "Manchester City" },
+    { "name": "Marquinhos", "team": "Paris Saint-Germain" },
+    { "name": "Kalidou Koulibaly", "team": "Chelsea" },
+    { "name": "Ben Chilwell", "team": "Chelsea" }
+  ],
+  "MID": [
+    { "name": "Kevin De Bruyne", "team": "Manchester City" },
+    { "name": "Luka Modrić", "team": "Real Madrid" },
+    { "name": "Toni Kroos", "team": "Real Madrid" },
+    { "name": "Bruno Fernandes", "team": "Manchester United" },
+    { "name": "Phil Foden", "team": "Manchester City" },
+    { "name": "N'Golo Kanté", "team": "Chelsea" },
+    { "name": "Frenkie de Jong", "team": "Barcelona" },
+    { "name": "Thomas Müller", "team": "Bayern Munich" },
+    { "name": "Marco Verratti", "team": "Paris Saint-Germain" },
+    { "name": "Christian Eriksen", "team": "Manchester United" }
+  ],
+  "ATT": [
+    { "name": "Lionel Messi", "team": "Inter Miami" },
+    { "name": "Cristiano Ronaldo", "team": "Al Nassr" },
+    { "name": "Neymar Jr", "team": "Al Hilal" },
+    { "name": "Kylian Mbappé", "team": "Paris Saint-Germain" },
+    { "name": "Robert Lewandowski", "team": "Barcelona" },
+    { "name": "Erling Haaland", "team": "Manchester City" },
+    { "name": "Harry Kane", "team": "Bayern Munich" },
+    { "name": "Romelu Lukaku", "team": "Roma" },
+    { "name": "Sadio Mané", "team": "Al Nassr" },
+    { "name": "Karim Benzema", "team": "Al Ittihad" }
+  ]
+}
+
